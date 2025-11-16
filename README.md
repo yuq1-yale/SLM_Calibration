@@ -6,7 +6,7 @@ A tool to calibrate Spatial Light Modulators (SLMs) by measuring how grayscale i
 
 **Hardware needed:**
 - Meadowlark Optics Blink Plus SLM (1024x1024) - connected via PCIe
-- Thorlabs PM100 Power Meter - connected via USB
+- Thorlabs PM100 Power Meter - connected via USB (SEE Repo https://github.com/yuq1-yale/ThorlabControlKit)
 - Laser source
 - Optical setup to capture 1st-order diffracted light
 
